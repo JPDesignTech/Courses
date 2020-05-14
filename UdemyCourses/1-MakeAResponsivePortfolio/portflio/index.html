@@ -3,32 +3,140 @@
 
 <head>
     <title>My Portfolio</title>
-
-
-
-
-
     <link rel="stylesheet" type="text/css" href="css/superslides.css"></link>
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css"></link>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/style.css"></link>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <body>
-
-
+    <div class="overlay"></div>
 
     <div id="slides">
         <div class="slides-container">
-            <img src="http://via.placeholder.com/350x150" alt="">
-            <img src="http://via.placeholder.com/350x150" alt="">
+            <img src="img/img1.jpg" alt="">
+            <img src="img/img2.jpg" alt="">
+            <img src="img/img3.jpg" alt="">
+        </div>
+
+        <div class="titleMessage">
+            <div class="heading">
+                <p class="main">Jeancarlos Perez</p>
+                <p class="sub typed"></p>
+            </div>
+        </div>
+        <nav class="slides-navigation">
+            <a href="#" class="next"></a>
+            <a href="#" class="prev"></a>
+        </nav>
+    </div>
+
+    <div id="aboutme" class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <img class="aboutImage" src="img/aboutMe.png">
+                </div>
+                <div class="col-md-7">
+                    <h4>My name is Jeancarlos Perez</h4>
+                    <p>Hi! Welcome to my personal page.I'm always looking to add more skills and experiences to my personal studies and work on research papers within the computer science field. I'm very interested in the world of Computers and Technology
+                        and their hardware. I recently earned a Masters of Science in Computer Engineering from the University of Central Florida. Current goals include wanting to develop my skills as a Computer Engineer into the future of technology
+                        and advancements in many everyday devices we use. I've worked and developed with many of the top computer programming languages to expand on my own skills library and apply them to my field. From C, C++, Java, JS, Angular, Python,
+                        and iOS Development with Swift. Working towards being an overall jack of all trades within the Computer Science field and be adaptable to any programming environment. I'm aiming to further expand my research and knowledge in my
+                        passion for computer hardware.</p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="skillsId" class="skillsClass section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2>TECHNICAL SKILLS</h2>
+                    <p>A representation of my profency in these skills</p>
+                </div>
+                <div class="owl-carousel owl-theme">
+                    <div class="skill">
+                        <span class="chart" data-percent="100">
+                            <span class="percent">100</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>JavaScript</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="80">
+                            <span class="percent">80</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>C++</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="70">
+                            <span class="percent">70</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>jQuery</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="80">
+                            <span class="percent">80</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>Angular JS</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="60">
+                            <span class="percent">60</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>Python</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="70">
+                            <span class="percent">70</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>Java</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="70">
+                            <span class="percent">70</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>MATLAB</h4>
+                    </div>
+
+                    <div class="skill">
+                        <span class="chart" data-percent="80">
+                            <span class="percent">90</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>Git</h4>
+                    </div>
+
+                </div>
+            </div>
         </div>
     </div>
 
 
     <script src="js/script.js"></script>
     <script src="js/jquery.superslides.min.js"></script>
+    <script src="js/typed.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.easypiechart.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
 </body>
 
 </html>
