@@ -37,22 +37,37 @@ $(document).ready(function() {
     })
 
     var skillsTopOffset = $(".skillsClass").offset().top;
-
+    var infoTopOffset = $(".infoClass").offset().top;
+    var countUpFinished = false;
     $(window).scroll(function() {
         if (this.window.pageYOffset > skillsTopOffset - $(window).height() + 200) {
             // https://github.com/rendro/easy-pie-chart
             $('.chart').easyPieChart({
                 easing: 'easeInOut',
                 barColor: '#ffffff',
-                trackColor: 'black',
+                trackColor: '#333333',
                 scaleColor: false,
-                lineWidth: 4,
+                lineWidth: 7,
                 size: 152,
+
                 onStep: function(from, to, percent) {
                     $(this.el).find('.percent').text(Math.round(percent));
                 }
             });
         }
+
+        if (!countUpFinished && this.window.pageYOffset > infoTopOffset - $(window).height() + 200) {
+            // https://github.com/inorganik/CountUp.js
+            $(".counter").each(function() {
+                var element = $(this);
+                var endVal = parseInt(element.text());
+                element.countup(endVal);
+            })
+
+            countUpFinished = true;
+        }
     })
+
+    // https://github.com/metafizzy/isotope
 
 });

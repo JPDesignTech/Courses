@@ -1,6 +1,6 @@
 body {
     font-size: 14px;
-    color: #333333;
+    color: #ffffff;
     background-color: #ffffff;
     letter-spacing: 1px;
 }
@@ -48,7 +48,7 @@ body {
 .titleMessage .heading p {
     color: #ffffff;
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
-    font-weight: 200;
+    font-weight: 600;
     letter-spacing: 7px;
 }
 
@@ -63,20 +63,32 @@ body {
 
 .section {
     padding: 100px 0;
-    background-color: #bdc3c7;
+    background-color: #333333;
 }
 
 .aboutImage {
     max-width: 100%;
 }
 
-.skillsClass {
+.owl-stage-outer {
+    margin: 20px;
+}
+
+.skillsClass,
+.contactClass {
     background-color: #e67e22;
+    text-shadow: #ffffff;
+    box-shadow: #000000;
 }
 
 .skill {
     text-align: center;
     margin-left: 25px;
+    color: #333333;
+}
+
+.skillsClass h4 {
+    padding: 15px 20px;
 }
 
 .chart {
@@ -94,7 +106,7 @@ body {
 }
 
 .chart .percent {
-    color: #000;
+    color: #333333;
     line-height: 152px;
     display: inline-block;
     font-size: 35px;
@@ -102,4 +114,80 @@ body {
 
 .chart .percent:after {
     content: "%";
+}
+
+.squareItem {
+    margin-top: 30px;
+    position: relative;
+}
+
+.squareInnerContainer {
+    position: relative;
+    padding: 50px;
+}
+
+.squareInnerContainer {
+    position: relative;
+    padding: 50px 15px 35px;
+    text-align: center;
+    border: 3px solid #e67e22;
+    border-top: none;
+}
+
+.squareInnerContainer:before,
+.squareInnerContainer:after {
+    content: '';
+    position: absolute;
+    top: 0px;
+    width: 30%;
+    border-bottom: 3px solid #e67e22;
+}
+
+.squareInnerContainer:before {
+    right: 0px;
+}
+
+.squareInnerContainer:after {
+    left: 0px;
+}
+
+.squareContent h2 {
+    font-size: 56px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    color: #e67e22;
+}
+
+.squareContent h3 {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.squareIcon {
+    position: absolute;
+    left: 50%;
+    top: -30px;
+    width: 40%;
+    height: 60px;
+    font-size: 45px;
+    margin-left: -20%;
+    color: #e67e22;
+}
+
+.contactButton {
+    color: #fff;
+    padding: 15px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid #ffF;
+    border-radius: 2px;
+    background-color: #333333;
+}
+
+.contactButton:hover {
+    text-decoration: none;
+    color: #333333;
+    background-color: #fff;
+    border: 2px solid #333333;
 }
