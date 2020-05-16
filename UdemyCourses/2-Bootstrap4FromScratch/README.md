@@ -1,7 +1,7 @@
 # Bootstrap 4 From Scratch Course
 This is a Udemy Course I took and followed along to build an example projects using jQuery, Javascript, HTML, and of course Bootstrap 4.  
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.2-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-orange)]() [![shieldio made-with](https://img.shields.io/badge/Status-In_Progress-darkgreen)]() 
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.2-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-In_Progress-yellow)]()
 
 ## Table of contents
 * [Udemy Course](#udemy-course)
