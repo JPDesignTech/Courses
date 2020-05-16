@@ -10,6 +10,12 @@
 ## About:
 Use JavaScript and HTML to create the ultimate responsive portfolio website from scratch!
 
+## Skills Used:
+![alt text](https://img.icons8.com/ios-filled/50/000000/javascript.png "JavaScript")
+![alt text](https://img.icons8.com/ios-filled/50/000000/jquery.png "jQuery")
+![alt text](https://img.icons8.com/ios-filled/50/000000/html-5.png "HTML5")
+![alt text](https://img.icons8.com/ios-filled/50/000000/css3.png "CSS3")
+
 ## Udemy Certification: 
 Open UdemyCourseCompletionCertification.jpg above.
 
