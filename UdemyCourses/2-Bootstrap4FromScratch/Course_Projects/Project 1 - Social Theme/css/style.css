@@ -26,14 +26,15 @@ body {
 }
 
 #home-section .home-inner {
-    padding-top: 150px;
+    padding-top: 125px;
 }
 
 #home-section .card-form {
     opacity: 0.8;
 }
 
-#home-section .fas {
+#home-section .fas,
+#create-section .fas {
     color: green;
     background: white;
     padding: 5px;

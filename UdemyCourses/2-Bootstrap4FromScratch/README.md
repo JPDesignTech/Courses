@@ -5,8 +5,9 @@ This is a Udemy Course I took and followed along to build an example projects us
 
 ## Table of contents
 * [Udemy Course](#udemy-course)
-* [Technologies](#about)
-* [About](#skills-used)
+* [About](#about)
+* [Projects](#projects)
+* [Skills Used](#skills-used)
 * [Sources & References](#sources-&-references)
 * [Setup](#setup)
 * [Scripts](#scripts)
@@ -16,6 +17,11 @@ This is a Udemy Course I took and followed along to build an example projects us
 
 ## About:
 Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3
+
+## Projects
+### Project 1 - Social Theme
+
+[![image alt text](Project-1-img.png)](Course_Projects/Project%201%20-%20Social%20Theme/)
 
 ## Skills Used:
 This project was created with:  
@@ -37,6 +43,6 @@ To run this project go into `2-Bootstrap4FromStratch`.
 * Photos: https://pexels.com
 * Fonts & More: https://fontawesome.com
 ### Scripts:
-[![shieldio made-with](https://img.shields.io/badge/Script-Isotope-orange)](https://github.com/metafizzy/isotope)
+[![shieldio made-with](https://img.shields.io/badge/Script-PopperJS-orange)](https://github.com/popperjs/popper-core)
 
 
