@@ -1,7 +1,7 @@
 # Make a Responsive Portfolio Website Course
  This is a Udemy Course I took and followed along to build an example portfolio using jQuery, Javascript, HTML, and CSS.
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]()
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-4H-black)]()
 
 <p align="center">
   <img src="portfolio_cover.png" width="550" alt="accessibility text">
@@ -42,11 +42,11 @@ To run this project go into `1-MakeAResponsivePortfolio` and open `Index.html`.
 * Photos: https://pexels.com
 * Fonts & More: https://fontawesome.com
 ### Scripts:
-* https://github.com/metafizzy/isotope
-* https://github.com/nicinabox/superslides
-* https://github.com/mattboldt/typed.js/
-* https://github.com/OwlCarousel2/OwlCarousel2
-* https://github.com/rendro/easy-pie-chart
-* https://github.com/inorganik/CountUp.js
-* https://github.com/fancyapps/fancybox
+[![shieldio made-with](https://img.shields.io/badge/Script-Isotope-orange)](https://github.com/metafizzy/isotope)
+[![shieldio made-with](https://img.shields.io/badge/Script-SuperSlides-orange)](https://github.com/nicinabox/superslides)
+[![shieldio made-with](https://img.shields.io/badge/Script-Typed-orange)](https://github.com/mattboldt/typed.js/)
+[![shieldio made-with](https://img.shields.io/badge/Script-OwlCarousel2-orange)](https://github.com/OwlCarousel2/OwlCarousel2)
+[![shieldio made-with](https://img.shields.io/badge/Script-EasyPieChart-orange)](https://github.com/rendro/easy-pie-chart)
+[![shieldio made-with](https://img.shields.io/badge/Script-CountUp-orange)](https://github.com/inorganik/CountUp.js)
+[![shieldio made-with](https://img.shields.io/badge/Script-FancyBox-orange)](https://github.com/fancyapps/fancybox)
 
