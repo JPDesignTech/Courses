@@ -24,6 +24,10 @@ This project was created with:
 [![shieldio made-with](https://img.shields.io/badge/Made%20With-BootStrap-blue)](https://getbootstrap.com/docs/3.3/css/)  
 [![shieldio made-with](https://img.shields.io/badge/Made%20With-jQuery-blue)](https://jquery.com/)
 
+[![shieldio made-with](https://img.shields.io/badge/Programs%20Used-Visual%20Studio%20Code-red)](https://code.visualstudio.com/)  
+[![shieldio made-with](https://img.shields.io/badge/Programs%20Used-Fork-red)](https://git-fork.com/)  
+[![shieldio made-with](https://img.shields.io/badge/Programs%20Used-Firefox-red)](https://firefox.com/)
+
 ## Setup:
 To run this project go into `2-Bootstrap4FromStratch`.
 
