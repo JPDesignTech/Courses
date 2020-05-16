@@ -1,5 +1,7 @@
 # Bootstrap 4 From Scratch Course
-This is a Udemy Course I took and followed along to build an example projects using jQuery, Javascript, HTML, and of course Bootstrap 4.
+This is a Udemy Course I took and followed along to build an example projects using jQuery, Javascript, HTML, and of course Bootstrap 4.  
+
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.2-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-orange)]() [![shieldio made-with](https://img.shields.io/badge/Status-In_Progress-darkgreen)]() 
 
 ## Table of contents
 * [Udemy Course](#udemy-course)
@@ -17,11 +19,10 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 
 ## Skills Used:
 This project was created with:  
- ![alt text](https://img.icons8.com/color/48/000000/bootstrap.png "Bootstrap4") Bootstrap 4
- ![alt text](https://img.icons8.com/ios-filled/50/000000/javascript.png "JavaScript") JavaScript
-
- ![alt text](https://img.icons8.com/ios-filled/50/000000/jquery.png "jQuery") jQuery
- ![alt text](https://img.icons8.com/ios-filled/50/000000/html-5.png "HTML5") HTML5
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-JavaScript-blue)](https://www.javascript.com/)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-HTML5-blue)](https://en.wikipedia.org/wiki/HTML5)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-BootStrap-blue)](https://getbootstrap.com/docs/3.3/css/)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-jQuery-blue)](https://jquery.com/)
 
 ## Setup:
 To run this project go into `2-Bootstrap4FromStratch`.

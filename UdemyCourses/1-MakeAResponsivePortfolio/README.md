@@ -1,6 +1,8 @@
 # Make a Responsive Portfolio Website Course
  This is a Udemy Course I took and followed along to build an example portfolio using jQuery, Javascript, HTML, and CSS.
 
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]()
+
 <p align="center">
   <img src="portfolio_cover.png" width="550" alt="accessibility text">
 </p>
@@ -21,11 +23,10 @@
 Use JavaScript and HTML to create the ultimate responsive portfolio website from scratch!
 
 ## Skills Used:
- ![alt text](https://img.icons8.com/ios-filled/50/000000/javascript.png "JavaScript") JavaScript
- ![alt text](https://img.icons8.com/ios-filled/50/000000/jquery.png "jQuery") jQuery
- 
- ![alt text](https://img.icons8.com/ios-filled/50/000000/html-5.png "HTML5") HTML5
- ![alt text](https://img.icons8.com/ios-filled/50/000000/css3.png "CSS3") CSS3
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-JavaScript-blue)](https://www.javascript.com/)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-HTML5-blue)](https://en.wikipedia.org/wiki/HTML5)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-CSS3-blue)](https://www.w3schools.com/css/default.asp)  
+[![shieldio made-with](https://img.shields.io/badge/Made%20With-jQuery-blue)](https://jquery.com/)  
 
 ## Udemy Certification: 
 <p  align="center">
