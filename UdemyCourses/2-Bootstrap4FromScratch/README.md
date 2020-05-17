@@ -33,7 +33,8 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 [![shieldio made-with](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=white&logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Git--Fork-blue?logoColor=white&logo=git&style=for-the-badge)](https://git-fork.com/)
 [![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
-[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/)
+[![shieldio made-with](https://img.shields.io/badge/Koala--App-blue?logoColor=white&logo=sass&style=for-the-badge)](http://koala-app.com/)
 
 ## Setup:
 To run this project go into `2-Bootstrap4FromStratch`.
