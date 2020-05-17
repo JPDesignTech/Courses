@@ -22,10 +22,11 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 ### Project 1 - Social Theme
 
 [![image alt text](Project-1-img.png)](Course_Projects/Project%201%20-%20Social%20Theme/)
+### Project 2 - Book Theme
 
-## Skills Used:
+[![image alt text](Project-2-img.jpg)](Course_Projects/Project%201%20-%20Social%20Theme/)
 
- 
+## Skills & Tools Used:
 [![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)](https://www.javascript.com/)
 [![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5) [![shieldio made-with](https://img.shields.io/badge/CSS%203-black?logo=css3&style=for-the-badge)]() 
 [![shieldio made-with](https://img.shields.io/badge/BootStrap-black?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/docs/3.3/css/) 
@@ -35,7 +36,6 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 [![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/)
 [![shieldio made-with](https://img.shields.io/badge/Koala--App-blue?logoColor=white&logo=sass&style=for-the-badge)](http://koala-app.com/) [![shieldio made-with](https://img.shields.io/badge/Photoshop-blue?logo=adobe-photoshop&logoColor=white&style=for-the-badge)]() ![shieldio made-with](https://img.shields.io/badge/Mac%20OS-FF8700?logo=apple&logoColor=white&style=for-the-badge) 
-
 
 ## Setup:
 To run this project go into `2-Bootstrap4FromStratch`.
