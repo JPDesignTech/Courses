@@ -1,7 +1,7 @@
 # Bootstrap 4 From Scratch Course
 This is a Udemy Course I took and followed along to build an example projects using jQuery, Javascript, HTML, and of course Bootstrap 4.  
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.2-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-In_Progress-yellow)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-9%20Hours-black)]() 
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.2-green)]() ![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple?logo=google-scholar&logoColor=white) [![shieldio made-with](https://img.shields.io/badge/Status-In_Progress-yellow)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-9%20Hours-black)]() 
 
 ## Table of contents
 * [Udemy Course](#udemy-course)
@@ -27,14 +27,15 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 
  
 [![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)](https://www.javascript.com/)
-[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5)
+[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5) [![shieldio made-with](https://img.shields.io/badge/CSS%203-black?logo=css3&style=for-the-badge)]() 
 [![shieldio made-with](https://img.shields.io/badge/BootStrap-black?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/docs/3.3/css/) 
 [![shieldio made-with](https://img.shields.io/badge/jQUery-black?logo=jquery&style=for-the-badge)](https://jquery.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=white&logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Git--Fork-blue?logoColor=white&logo=git&style=for-the-badge)](https://git-fork.com/)
 [![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/)
-[![shieldio made-with](https://img.shields.io/badge/Koala--App-blue?logoColor=white&logo=sass&style=for-the-badge)](http://koala-app.com/)
+[![shieldio made-with](https://img.shields.io/badge/Koala--App-blue?logoColor=white&logo=sass&style=for-the-badge)](http://koala-app.com/) [![shieldio made-with](https://img.shields.io/badge/Photoshop-blue?logo=adobe-photoshop&logoColor=white&style=for-the-badge)]() ![shieldio made-with](https://img.shields.io/badge/Mac%20OS-FF8700?logo=apple&logoColor=white&style=for-the-badge) 
+
 
 ## Setup:
 To run this project go into `2-Bootstrap4FromStratch`.

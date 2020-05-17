@@ -1,7 +1,7 @@
 # Make a Responsive Portfolio Website Course
  This is a Udemy Course I took and followed along to build an example portfolio using jQuery, Javascript, HTML, and CSS.
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-5%20Hours-black)]()
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() ![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple?logo=google-scholar&logoColor=white) [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-5%20Hours-black)]()
 
 <p align="center">
   <img src="portfolio_cover.png" width="550" alt="accessibility text">
@@ -24,13 +24,15 @@ Use JavaScript and HTML to create the ultimate responsive portfolio website from
 
 ## Skills Used:
 [![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)](https://www.javascript.com/)
-[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5)
+[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5) 
+![shieldio made-with](https://img.shields.io/badge/CSS%203-black?logo=css3&style=for-the-badge)
 [![shieldio made-with](https://img.shields.io/badge/BootStrap-black?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/docs/3.3/css/) 
 [![shieldio made-with](https://img.shields.io/badge/jQUery-black?logo=jquery&style=for-the-badge)](https://jquery.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=white&logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/) 
 [![shieldio made-with](https://img.shields.io/badge/Fork-blue?logoColor=white&logo=git&style=for-the-badge)](https://git-fork.com/)
 [![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
-[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/) [![shieldio made-with](https://img.shields.io/badge/Photoshop-blue?logo=adobe-photoshop&logoColor=white&style=for-the-badge)]() 
+![shieldio made-with](https://img.shields.io/badge/Mac%20OS-FF8700?logo=apple&logoColor=white&style=for-the-badge)
 
 ## Udemy Certification: 
 <p  align="center">
