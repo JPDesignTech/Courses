@@ -1,6 +1,8 @@
 # Make a Responsive Portfolio Website Course
  This is a Udemy Course I took and followed along to build an example portfolio using jQuery, Javascript, HTML, and CSS.
 
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() ![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple?logo=google-scholar&logoColor=white) [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-5%20Hours-black)]()
+
 <p align="center">
   <img src="portfolio_cover.png" width="550" alt="accessibility text">
 </p>
@@ -21,11 +23,16 @@
 Use JavaScript and HTML to create the ultimate responsive portfolio website from scratch!
 
 ## Skills Used:
- ![alt text](https://img.icons8.com/ios-filled/50/000000/javascript.png "JavaScript") JavaScript
- ![alt text](https://img.icons8.com/ios-filled/50/000000/jquery.png "jQuery") jQuery
- 
- ![alt text](https://img.icons8.com/ios-filled/50/000000/html-5.png "HTML5") HTML5
- ![alt text](https://img.icons8.com/ios-filled/50/000000/css3.png "CSS3") CSS3
+[![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)](https://www.javascript.com/)
+[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5) 
+![shieldio made-with](https://img.shields.io/badge/CSS%203-black?logo=css3&style=for-the-badge)
+[![shieldio made-with](https://img.shields.io/badge/BootStrap-black?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/docs/3.3/css/) 
+[![shieldio made-with](https://img.shields.io/badge/jQUery-black?logo=jquery&style=for-the-badge)](https://jquery.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=white&logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Fork-blue?logoColor=white&logo=git&style=for-the-badge)](https://git-fork.com/)
+[![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/) [![shieldio made-with](https://img.shields.io/badge/Photoshop-blue?logo=adobe-photoshop&logoColor=white&style=for-the-badge)]() 
+![shieldio made-with](https://img.shields.io/badge/Mac%20OS-FF8700?logo=apple&logoColor=white&style=for-the-badge)
 
 ## Udemy Certification: 
 <p  align="center">
@@ -41,11 +48,11 @@ To run this project go into `1-MakeAResponsivePortfolio` and open `Index.html`.
 * Photos: https://pexels.com
 * Fonts & More: https://fontawesome.com
 ### Scripts:
-* https://github.com/metafizzy/isotope
-* https://github.com/nicinabox/superslides
-* https://github.com/mattboldt/typed.js/
-* https://github.com/OwlCarousel2/OwlCarousel2
-* https://github.com/rendro/easy-pie-chart
-* https://github.com/inorganik/CountUp.js
-* https://github.com/fancyapps/fancybox
+[![shieldio made-with](https://img.shields.io/badge/Script-Isotope-orange)](https://github.com/metafizzy/isotope)
+[![shieldio made-with](https://img.shields.io/badge/Script-SuperSlides-orange)](https://github.com/nicinabox/superslides)
+[![shieldio made-with](https://img.shields.io/badge/Script-Typed-orange)](https://github.com/mattboldt/typed.js/)
+[![shieldio made-with](https://img.shields.io/badge/Script-OwlCarousel2-orange)](https://github.com/OwlCarousel2/OwlCarousel2)
+[![shieldio made-with](https://img.shields.io/badge/Script-EasyPieChart-orange)](https://github.com/rendro/easy-pie-chart)
+[![shieldio made-with](https://img.shields.io/badge/Script-CountUp-orange)](https://github.com/inorganik/CountUp.js)
+[![shieldio made-with](https://img.shields.io/badge/Script-FancyBox-orange)](https://github.com/fancyapps/fancybox)
 
