@@ -1,7 +1,7 @@
 # Make a Responsive Portfolio Website Course
  This is a Udemy Course I took and followed along to build an example portfolio using jQuery, Javascript, HTML, and CSS.
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-4H-black)]()
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.1-green)]() [![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple)]() [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-5%20Hours-black)]()
 
 <p align="center">
   <img src="portfolio_cover.png" width="550" alt="accessibility text">
@@ -23,10 +23,14 @@
 Use JavaScript and HTML to create the ultimate responsive portfolio website from scratch!
 
 ## Skills Used:
-[![shieldio made-with](https://img.shields.io/badge/Made%20With-JavaScript-blue)](https://www.javascript.com/)  
-[![shieldio made-with](https://img.shields.io/badge/Made%20With-HTML5-blue)](https://en.wikipedia.org/wiki/HTML5)  
-[![shieldio made-with](https://img.shields.io/badge/Made%20With-CSS3-blue)](https://www.w3schools.com/css/default.asp)  
-[![shieldio made-with](https://img.shields.io/badge/Made%20With-jQuery-blue)](https://jquery.com/)  
+[![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)](https://www.javascript.com/)
+[![shieldio made-with](https://img.shields.io/badge/HTML%205-black?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5)
+[![shieldio made-with](https://img.shields.io/badge/BootStrap-black?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/docs/3.3/css/) 
+[![shieldio made-with](https://img.shields.io/badge/jQUery-black?logo=jquery&style=for-the-badge)](https://jquery.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=white&logo=visual-studio-code&style=for-the-badge)](https://code.visualstudio.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Fork-blue?logoColor=white&logo=git&style=for-the-badge)](https://git-fork.com/)
+[![shieldio made-with](https://img.shields.io/badge/FireFox-blue?logoColor=white&logo=mozilla-firefox&style=for-the-badge)](https://firefox.com/) 
+[![shieldio made-with](https://img.shields.io/badge/Brave-blue?logoColor=white&logo=brave&style=for-the-badge)](https://brave.com/) 
 
 ## Udemy Certification: 
 <p  align="center">
