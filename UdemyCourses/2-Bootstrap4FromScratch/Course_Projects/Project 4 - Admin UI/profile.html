@@ -17,12 +17,12 @@
         <div class="container">
             <a href="index.html" class="navbar-brand">NeX Data Servers</a>
             <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-              <span class="navbar-toggler-icon"></span>
-            </button>
+            <span class="navbar-toggler-icon"></span>
+          </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav">
                     <li class="nav-item px-2">
-                        <a href="index.html" class="nav-link active">Dashboard</a>
+                        <a href="index.html" class="nav-link ">Dashboard</a>
                     </li>
                     <li class="nav-item px-2">
                         <a href="servers.html" class="nav-link ">Servers</a>
@@ -31,7 +31,7 @@
                         <a href="sites.html" class="nav-link ">Sites</a>
                     </li>
                     <li class="nav-item px-2">
-                        <a href="domains.html" class="nav-link ">Domains</a>
+                        <a href="domains.html" class="nav-link active">Domains</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
@@ -56,12 +56,14 @@
         </div>
     </nav>
     <!------ NAVBAR SECTION END   ------>
+
+    <!-- HEADER -->
     <!------ HEADER SECTION START ------>
-    <header id="main-header" class="py-2 bg-warning text-white">
+    <header id="main-header" class="py-2 bg-danger text-white">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h1><i class="fas fa-cog"></i> Dashboard</h1>
+                    <h1><i class="fas fa-database"></i> Edit Profile</h1>
                 </div>
             </div>
         </div>
@@ -72,120 +74,76 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-warning text-white btn-block" data-toggle="modal" data-target="#addServerModal">
-                        <i class="fas fa-plus"></i> Add Server
+                    <a href="index.html" class="btn btn-light btn-block">
+                        <i class="fas fa-arrow-left"></i> Back To Dashboard
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-danger btn-block" data-toggle="modal" data-target="#addSiteModal">
-                        <i class="fas fa-plus"></i> Add Site
+                    <a href="#" class="btn btn-success btn-block">
+                        <i class="fas fa-lock"></i> Change Password
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="#" class="btn btn-dark btn-block" data-toggle="modal" data-target="#addDomainModal">
-                        <i class="fas fa-plus"></i> Add Domain
+                    <a href="#" class="btn btn-danger btn-block">
+                        <i class="fas fa-trash"></i> Delete Account
                     </a>
                 </div>
             </div>
         </div>
     </section>
     <!------ ACTIONS SECTION END   ------>
-    <!------ SERVERS SECTION START ------>
-    <section id="servers">
+    <!------ PROFILE SECTION START ------>
+    <section id="profile">
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
                     <div class="card">
                         <div class="card-header">
-                            <h4>Latest Server</h4>
+                            <h4>Edit Profile</h4>
                         </div>
-                        <table class="table table-striped">
-                            <thead class="thead-dark">
-                                <tr>
-                                    <th>#</th>
-                                    <th>Server Name</th>
-                                    <th>Server Type</th>
-                                    <th>Up Time (in minutes)</th>
-                                    <th>Status</th>
-                                    <th>Server Details</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>1</td>
-                                    <td>Jeans Personal Minecraft 1.6.0 Server</td>
-                                    <td>Minecraft Server</td>
-                                    <td>2031</td>
-                                    <td class="bg-success text-center text-white"><i class="fas fa-check"></i></td>
-                                    <td class="text-center"><a href="details.html" class="btn btn-warning"><i class="fas fa-info"></i></a></td>
-                                </tr>
-                            </tbody>
-                            <tbody>
-                                <tr>
-                                    <td>2</td>
-                                    <td>CSS DM Mode | Surf 24/7 | MiniGames Server</td>
-                                    <td>Counter-Strike Source Server</td>
-                                    <td>8329</td>
-                                    <td class="bg-success text-center text-white"><i class="fas fa-check"></i></td>
-                                    <td class="text-center"><a href="details.html" class="btn btn-warning"><i class="fas fa-info"></i></a></td>
-                                </tr>
-                            </tbody>
-                            <tbody>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Docker Wordpress Test Server</td>
-                                    <td>Docker Server</td>
-                                    <td class="text-danger"><i class="fas fa-exclamation-triangle"></i> DOWN!</td>
-                                    <td class="bg-danger text-center text-white"><i class="fas fa-times"></i></td>
-                                    <td class="text-center"><a href="details.html" class="btn btn-warning"><i class="fas fa-info"></i></a></td>
-                                </tr>
-                            </tbody>
-                            <tbody>
-                                <tr>
-                                    <td>4</td>
-                                    <td>TTT Garrys Mod Server! Quick Rounds!</td>
-                                    <td>Garrys Mod</td>
-                                    <td>829</td>
-                                    <td class="bg-success text-center text-white"><i class="fas fa-check"></i></td>
-                                    <td class="text-center"><a href="details.html" class="btn btn-warning"><i class="fas fa-info"></i></a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                        <div class="card-body">
+                            <form>
+                                <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" class="form-control" value="Jean Lean">
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Email</label>
+                                    <input type="email" class="form-control" value="test@test.com">
+                                </div>
+                                <div class="form-group">
+                                    <label for="bio">Bio</label>
+                                    <textarea class="form-control" name="editor1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid unde at fugiat explicabo temporibus, tempora animi sunt iusto quod beatae optio veritatis velit natus odit error! Possimus esse quisquam quibusdam eveniet autem! Minus dolore quisquam nemo similique doloribus perspiciatis tempore.</textarea>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card text-center bg-warning text-white mb-3">
-                        <div class="card-body">
-                            <h3>Servers</h3>
-                            <h4 class="display-4">
-                                <i class="fas fa-server"></i> 5
-                            </h4>
-                            <a href="servers.html" class="btn btn-outline-light btn-sm">View Servers</a>
-                        </div>
-                    </div>
-                    <div class="card text-center bg-danger text-white mb-3">
-                        <div class="card-body">
-                            <h3>Sites</h3>
-                            <h4 class="display-4">
-                                <i class="fas fa-cloud"></i> 3
-                            </h4>
-                            <a href="sites.html" class="btn btn-outline-light btn-sm">View Sites</a>
-                        </div>
-                    </div>
-                    <div class="card text-center bg-dark text-white mb-3">
-                        <div class="card-body">
-                            <h3>Domains</h3>
-                            <h4 class="display-4">
-                                <i class="fas fa-database"></i> 4
-                            </h4>
-                            <a href="domains.html" class="btn btn-outline-light btn-sm">View Domains</a>
-                        </div>
-                    </div>
+                    <h3>Your Avatar</h3>
+                    <img src="img/avatar.png" alt="" class="d-block img-fluid mb-3">
+                    <button class="btn btn-primary btn-block">Edit Image</button>
+                    <button class="btn btn-danger btn-block">Delete Image</button>
                 </div>
             </div>
         </div>
     </section>
-    <!------ SERVERS SECTION END   ------>
+    <!------ PROFILE SECTION END   ------>
+    <!------ FOOTER SECTION START  ------>
+    <div id="main-footer" class="bg-dark text-white mt-5 p-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <p class="lead text-center">
+                        Copyright &copy; <span id="year"></span> NeX Data Server
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------ FOOTER SECTION END    ------>
+
+
     <!--============ MODALS SECTION START ============-->
     <!------ ADD SERVER MODAL SECTION START ------>
     <div class="modal fade" id="addServerModal">
@@ -194,8 +152,8 @@
                 <div class="modal-header bg-warning">
                     <h5 class="modal-title">Add Server</h5>
                     <button class="close" data-dismiss="modal">
-                      <span>&times;</span>
-                    </button>
+                    <span>&times;</span>
+                  </button>
                 </div>
                 <div class="modal-body">
                     <form>
@@ -206,11 +164,11 @@
                         <div class="form-group">
                             <label for="servertype">Server Type</label>
                             <select class="form-control">
-                              <option value="">Minecraft Server</option>
-                              <option value="">Counter-Strike: Source Server</option>
-                              <option value="">Garry's Mod Server</option>
-                              <option value="">Docker Server</option>
-                            </select>
+                            <option value="">Minecraft Server</option>
+                            <option value="">Counter-Strike: Source Server</option>
+                            <option value="">Garry's Mod Server</option>
+                            <option value="">Docker Server</option>
+                          </select>
                         </div>
                         <div class="form-group">
                             <label for="image">Upload Image</label>
@@ -240,8 +198,8 @@
                 <div class="modal-header bg-danger text-white">
                     <h5 class="modal-title">Add Site</h5>
                     <button class="close" data-dismiss="modal">
-                    <span>&times;</span>
-                  </button>
+                  <span>&times;</span>
+                </button>
                 </div>
                 <div class="modal-body">
                     <form>
@@ -265,8 +223,8 @@
                 <div class="modal-header bg-dark text-white">
                     <h5 class="modal-title">Add Domain</h5>
                     <button class="close" data-dismiss="modal">
-                  <span>&times;</span>
-                </button>
+                <span>&times;</span>
+              </button>
                 </div>
                 <div class="modal-body">
                     <form>
@@ -300,28 +258,17 @@
     </div>
     <!------ ADD DOMAIN MODAL SECTION END   ------>
     <!--============ MODALS SECTION END ============-->
-    <div id="main-footer" class="bg-dark text-white mt-5 p-5">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <p class="lead text-center">
-                        Copyright &copy; <span id="year"></span> NeX Data Server
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
     <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-    <script src="https://cdn.ckeditor.com/4.14.0/standard/ckeditor.js"></script>
+    <script src="https://cdn.ckeditor.com/4.9.2/standard/ckeditor.js"></script>
+
     <script>
         // Get the current year for the copyright
         $('#year').text(new Date().getFullYear());
 
-        // Use CKEditor to add a full text editor to the modal-body
         CKEDITOR.replace('editor1');
     </script>
 </body>
