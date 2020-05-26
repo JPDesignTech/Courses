@@ -10,3 +10,5 @@ UdemyCourses/2-Bootstrap4FromScratch/Course_Projects/.DS_Store
 *.DS_Store
 *.DS_Store
 .DS_Store
+node_modules/*
+node_modules/

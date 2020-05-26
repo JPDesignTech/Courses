@@ -1,0 +1,24 @@
+{
+    "name": "section-8",
+    "version": "1.0.0",
+    "description": "Section 8 package",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js",
+        "start-server": "node app.js"
+    },
+    "author": "Jeancarlos Perez",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "express-handlebars": "^4.0.4",
+        "path": "^0.12.7",
+        "pug": "^2.0.4"
+    }
+}
