@@ -10,3 +10,11 @@ UdemyCourses/2-Bootstrap4FromScratch/Course_Projects/.DS_Store
 *.DS_Store
 *.DS_Store
 .DS_Store
+UdemyCourses/4-TheMERNFullstackGuide/BackEnd/node_modules
+UdemyCourses/.DS_Store
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.firebase
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/firebase.json
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.firebaserc
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
+UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
