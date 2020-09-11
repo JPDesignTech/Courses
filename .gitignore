@@ -18,3 +18,7 @@ UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.firebaserc
 UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
 UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
 UdemyCourses/4-TheMERNFullstackGuide/FrontEnd/.env.production
+UdemyCourses/5-GraphQLWithReactGuide/node_modules
+UdemyCourses/.DS_Store
+.DS_Store
+UdemyCourses/5-GraphQLWithReactGuide/GraphQL-Auth/node_modules
