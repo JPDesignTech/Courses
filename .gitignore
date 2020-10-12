@@ -22,3 +22,6 @@ UdemyCourses/5-GraphQLWithReactGuide/node_modules
 UdemyCourses/.DS_Store
 .DS_Store
 UdemyCourses/5-GraphQLWithReactGuide/GraphQL-Auth/node_modules
+UdemyCourses/1-MakeAResponsivePortfolio/.vscode
+UdemyCourses/7-ReactJS&Firebase/node_modules
+UdemyCourses/7-ReactJS&Firebase/src/database/firebase.js
