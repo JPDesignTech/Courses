@@ -25,3 +25,6 @@ UdemyCourses/5-GraphQLWithReactGuide/GraphQL-Auth/node_modules
 UdemyCourses/1-MakeAResponsivePortfolio/.vscode
 UdemyCourses/7-ReactJS&Firebase/node_modules
 UdemyCourses/7-ReactJS&Firebase/src/database/firebase.js
+UdemyCourses/7-ReactJS&Firebase/build
+UdemyCourses/7-ReactJS&Firebase/firebase.json
+UdemyCourses/7-ReactJS&Firebase/.firebaserc
