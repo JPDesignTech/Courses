@@ -1,8 +1,8 @@
-# The Angular with NodeJS - The MEAN Guide Course
+# Advanced React & Redux
 
-This is a Udemy Course I took and followed along build a MEAN app with a working backend
+This is a Udemy Course I took and followed along to increase my skills in Authentication, Testing, Middlewares, HOC's, and Deployment with React and Redux.
 
-[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.9-green)]() ![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple?logo=google-scholar&logoColor=white) [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-13%20Hours-black)]()
+[![shieldio made-with](https://img.shields.io/badge/Tag-v1.0.10-green)]() ![shieldio made-with](https://img.shields.io/badge/CourseType-Udemy-purple?logo=google-scholar&logoColor=white) [![shieldio made-with](https://img.shields.io/badge/Status-Completed-darkgreen)]() [![shieldio made-with](https://img.shields.io/badge/Hours_Log-21%20Hours-black)]()
 
 ## Table of contents
 
@@ -16,19 +16,24 @@ This is a Udemy Course I took and followed along build a MEAN app with a working
 
 ## Udemy Course:
 
-[![image alt text](https://img-a.udemycdn.com/course/480x270/833442_b26e_4.jpg)](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
+[![image alt text](https://img-b.udemycdn.com/course/240x135/781532_8b4d_6.jpg)](https://www.udemy.com/course/react-redux-tutorial/)
 
 ## About:
 
-Angular 10 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0
+Learn how to thoroughly test React and Redux code, including tests for action creators and reducers
 
-Benefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more!
-And combine these advantages with the power of a NodeJS + Express + MongoDB backend!
+Get familiar with Higher Order Components. Don't know what they are? No problem, you have been using them without even knowing it!
+
+Rewrite a popular Redux Middleware from scratch to handle asynchronous actions
+
+Become a master of the trickiest topic in Javascript: authentication. You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users. No shortcuts, no dummy data.
 
 ## Skills & Tools Used:
 
-[![shieldio made-with](https://img.shields.io/badge/Angular-black?logo=angular&style=for-the-badge)]()
-[![shieldio made-with](https://img.shields.io/badge/Typescript-black?logo=typescript&style=for-the-badge)]()
+[![shieldio made-with](https://img.shields.io/badge/React-black?logo=react&style=for-the-badge)]()
+[![shieldio made-with](https://img.shields.io/badge/Redux-black?logo=redux&style=for-the-badge)]()
+[![shieldio made-with](https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge)]()
+[![shieldio made-with](https://img.shields.io/badge/Jest-black?logo=jest&style=for-the-badge)]()
 [![shieldio made-with](https://img.shields.io/badge/NodeJS-black?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![shieldio made-with](https://img.shields.io/badge/MongoDB-black?logo=mongodb&style=for-the-badge)]()
 [![shieldio made-with](https://img.shields.io/badge/Firebase-black?logo=firebase&style=for-the-badge)]()
@@ -45,16 +50,6 @@ And combine these advantages with the power of a NodeJS + Express + MongoDB back
 </p>
 
 ## Setup:
-
-Go into the project directory. You will need your own MongoDB Cluster Connection URL For this Project.
-
-### Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-### Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Sources & References:
 
