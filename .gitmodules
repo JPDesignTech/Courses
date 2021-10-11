@@ -19,3 +19,6 @@
 [submodule "UdemyCourses/AdvanceReactRedux"]
 	path = UdemyCourses/AdvanceReactRedux
 	url = https://github.com/jpere547/AdvanceReactRedux.git
+[submodule "UdemyCourses/TheMEANStackGuide"]
+	path = UdemyCourses/TheMEANStackGuide
+	url = https://github.com/jpere547/TheMEANStackGuide.git
