@@ -16,3 +16,6 @@
 [submodule "UdemyCourses/ReactJSWithFirebase"]
 	path = UdemyCourses/ReactJSWithFirebase
 	url = https://github.com/jpere547/ReactJSWithFirebase.git
+[submodule "UdemyCourses/AdvanceReactRedux"]
+	path = UdemyCourses/AdvanceReactRedux
+	url = https://github.com/jpere547/AdvanceReactRedux.git
