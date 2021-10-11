@@ -22,3 +22,6 @@
 [submodule "UdemyCourses/TheMEANStackGuide"]
 	path = UdemyCourses/TheMEANStackGuide
 	url = https://github.com/jpere547/TheMEANStackGuide.git
+[submodule "UdemyCourses/AngularProgressiveWebApps"]
+	path = UdemyCourses/AngularProgressiveWebApps
+	url = https://github.com/jpere547/AngularProgressiveWebApps.git
