@@ -1,3 +1,6 @@
 [submodule "UdemyCourses/MakeAResponsivePortfolio"]
 	path = UdemyCourses/MakeAResponsivePortfolio
 	url = https://github.com/jpere547/MakeAResponsivePortfolio.git
+[submodule "UdemyCourses/Bootstrap4FromScratch"]
+	path = UdemyCourses/Bootstrap4FromScratch
+	url = https://github.com/jpere547/Bootstrap4FromScratch.git
