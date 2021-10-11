@@ -7,3 +7,6 @@
 [submodule "UdemyCourses/NodeJSTheCompleteGuide"]
 	path = UdemyCourses/NodeJSTheCompleteGuide
 	url = https://github.com/jpere547/NodeJSTheCompleteGuide.git
+[submodule "UdemyCourses/GraphQLWithReactGuide"]
+	path = UdemyCourses/GraphQLWithReactGuide
+	url = https://github.com/jpere547/GraphQLWithReactGuide.git
