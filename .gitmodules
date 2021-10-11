@@ -1,0 +1,18 @@
+[submodule "UdemyCourses/MakeAResponsivePortfolio"]
+	path = UdemyCourses/MakeAResponsivePortfolio
+	url = https://github.com/jpere547/MakeAResponsivePortfolio.git
+[submodule "UdemyCourses/Bootstrap4FromScratch"]
+	path = UdemyCourses/Bootstrap4FromScratch
+	url = https://github.com/jpere547/Bootstrap4FromScratch.git
+[submodule "UdemyCourses/NodeJSTheCompleteGuide"]
+	path = UdemyCourses/NodeJSTheCompleteGuide
+	url = https://github.com/jpere547/NodeJSTheCompleteGuide.git
+[submodule "UdemyCourses/GraphQLWithReactGuide"]
+	path = UdemyCourses/GraphQLWithReactGuide
+	url = https://github.com/jpere547/GraphQLWithReactGuide.git
+[submodule "UdemyCourses/TheClojureCompleteGuide"]
+	path = UdemyCourses/TheClojureCompleteGuide
+	url = https://github.com/jpere547/TheClojureCompleteGuide
+[submodule "UdemyCourses/ReactJSWithFirebase"]
+	path = UdemyCourses/ReactJSWithFirebase
+	url = https://github.com/jpere547/ReactJSWithFirebase.git
