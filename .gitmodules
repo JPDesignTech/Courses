@@ -10,3 +10,6 @@
 [submodule "UdemyCourses/GraphQLWithReactGuide"]
 	path = UdemyCourses/GraphQLWithReactGuide
 	url = https://github.com/jpere547/GraphQLWithReactGuide.git
+[submodule "UdemyCourses/TheClojureCompleteGuide"]
+	path = UdemyCourses/TheClojureCompleteGuide
+	url = https://github.com/jpere547/TheClojureCompleteGuide
