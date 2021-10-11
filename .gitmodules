@@ -13,3 +13,6 @@
 [submodule "UdemyCourses/TheClojureCompleteGuide"]
 	path = UdemyCourses/TheClojureCompleteGuide
 	url = https://github.com/jpere547/TheClojureCompleteGuide
+[submodule "UdemyCourses/ReactJSWithFirebase"]
+	path = UdemyCourses/ReactJSWithFirebase
+	url = https://github.com/jpere547/ReactJSWithFirebase.git
