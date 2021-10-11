@@ -4,3 +4,6 @@
 [submodule "UdemyCourses/Bootstrap4FromScratch"]
 	path = UdemyCourses/Bootstrap4FromScratch
 	url = https://github.com/jpere547/Bootstrap4FromScratch.git
+[submodule "UdemyCourses/NodeJSTheCompleteGuide"]
+	path = UdemyCourses/NodeJSTheCompleteGuide
+	url = https://github.com/jpere547/NodeJSTheCompleteGuide.git
